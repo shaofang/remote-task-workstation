@@ -53,9 +53,13 @@ Run
 
 ### Run the workstation in private mode
 
+Only you can use the device.
+
         $ REG_USER=user@email.com ./node_modules/.bin/coffee app.coffee
 
 ### Run the workstation in public mode
+
+Share your device with others. 
 
         $ ./node_modules/.bin/coffee app.coffee
 
@@ -84,13 +88,29 @@ Create your own project to manage test.
 
 ### Tasks
 
+- Create task
+
+- Share the tasks in the project by adding members
+
+- Stop and re-start task
+
 ![task](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/tasks.jpg "task")
 
 ### Create Task
 
+- Specific Model
+
+- Specific devices 
+
 ![createtask](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/createtask.jpg "createtask")
 
 ### Jobs
+
+- Stop and re-start jobs
+
+- Monitor the specific device with screen snapshot and logs
+
+- Test result of jobs. 
 
 ![job](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/jobs.jpg "job")
 
