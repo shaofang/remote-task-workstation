@@ -80,20 +80,20 @@ Support github account.
 
 Create your own project to manage test.
 
-![project](https://github.com/shaofang/remote-task-workstation/raw/master/docs/img/project.jpg "project")
+![project](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/project.jpg "project")
 
 ### Tasks
 
-![task](https://github.com/shaofang/remote-task-workstation/raw/master/docs/img/tasks.jpg "task")
+![task](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/tasks.jpg "task")
 
 ### Create Task
 
-![createtask](https://github.com/shaofang/remote-task-workstation/raw/master/docs/img/createtask.jpg "createtask")
+![createtask](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/createtask.jpg "createtask")
 
 ### Jobs
 
-![job](https://github.com/shaofang/remote-task-workstation/raw/master/docs/img/jobs.jpg "job")
+![job](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/jobs.jpg "job")
 
 ### Monitor
 
-![monitor](https://github.com/shaofang/remote-task-workstation/raw/master/docs/img/monitor.jpg "monitor")
+![monitor](https://github.com/shaofang/remote-task-workstation/raw/develop/docs/img/monitor.jpg "monitor")
